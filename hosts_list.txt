@@ -1,0 +1,7 @@
+# This is sample host list for ping_checker
+
+# Host1
+192.168.0.1
+
+# Host2
+192.168.0.2
